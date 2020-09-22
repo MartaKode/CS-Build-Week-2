@@ -32,7 +32,7 @@ class MyQueue:
         Returns whether the queue is empty.
         """
         # print(self.stack)
-        if len(self.stack1) == 0:
+        if len(self.stack) == 0:
             return True
         else:
             return False
