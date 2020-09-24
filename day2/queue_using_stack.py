@@ -109,3 +109,4 @@ class MyQueue2:
 # param_2 = obj.pop()
 # param_3 = obj.peek()
 # param_4 = obj.empty()
+
